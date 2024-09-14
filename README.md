@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+**About Me**
+==========
+
+Hola soy Luis David Negrete Otero, pero puedes llamarme Davi.
+
+**Tech Stack**
+-------------
+
+```js
+const daviNegrete = {
+  pronouns: "he" | "him",
+  code: ["Javascript","HTML","CSS"],
+  tools: ["React","Node"]
+}
+```
+
 <!--
 **Davi-Negrete/Davi-Negrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
