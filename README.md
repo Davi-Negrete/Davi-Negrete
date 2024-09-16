@@ -25,7 +25,10 @@ const daviNegrete = {
 -  (Español: Nativo) (English: B1)
 - 🎹 Me gusta la música, en especial el piano, lo empecé a tocar desde muy pequeño, esto junto con la programación y el desarrolo son mis hobbies y pasión.
 - 📫 Puedes contactarme por los siguientes medios:
-        Correo electrónico: luisdavidnegrete12@gmail.com
-        Whatsapp: (+57) 311-420-2830
-        LinkedIn: https://www.linkedin.com/in/luis-david-negrete-otero-38a1232ab/?trk=opento_sprofile_details
+
+  ✅Correo electrónico: luisdavidnegrete12@gmail.com
+  
+  ✅Whatsapp: (+57) 311-420-2830
+  
+  ✅LinkedIn: https://www.linkedin.com/in/luis-david-negrete-otero-38a1232ab/?trk=opento_sprofile_details
   
