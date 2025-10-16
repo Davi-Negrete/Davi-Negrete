@@ -28,7 +28,5 @@ const daviNegrete = {
 
   ✅Correo electrónico: luisdavidnegrete12@gmail.com
   
-  ✅Whatsapp: (+57) 311-420-2830
-  
   ✅LinkedIn: https://www.linkedin.com/in/luis-david-negrete-otero-38a1232ab/?trk=opento_sprofile_details
   
