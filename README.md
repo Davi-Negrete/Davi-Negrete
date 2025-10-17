@@ -3,7 +3,7 @@
 **Acerca de mí**
 ==========
 
-Hola soy Luis David Negrete, pero puedes llamarme Davi.
+Hola soy David Negrete.
 
 **Tech Stack**
 -------------
